@@ -1,4 +1,4 @@
-# Bankist
+# Bankist - Banking Simplified
 
 Website link : https://tanzeel0.github.io/Bankist/
 
