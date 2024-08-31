@@ -5,8 +5,11 @@ Website link : https://tanzeel0.github.io/Bankist/
 Welcome to Bankist, a modern banking website that offers a sleek and user-friendly interface. This project is a front-end web application designed to demonstrate best practices in HTML, CSS, and JavaScript, providing a smooth and interactive user experience.
 
 Features : 
+
 Responsive Design: The website is fully responsive, providing a seamless experience on desktop, tablet, and mobile devices.
+
 Interactive UI: Includes animations, transitions, and interactive elements to enhance the user experience.
+
 Modern Banking Interface: A clean, modern design inspired by real-world banking websites.
 
 This Website contains 2 users :
