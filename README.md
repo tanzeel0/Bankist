@@ -46,17 +46,7 @@ This demo application comes pre-loaded with two user accounts to showcase its lo
    - Check recent transactions.
    - Log out securely.
    - Navigate through various sections of the application with ease.
-
-## 📱 Responsive Preview
-
-- **Desktop**: Optimized for large screens with a clean layout and full access to features.
-- **Tablet & Mobile**: Provides a condensed and user-friendly interface tailored for smaller screens, ensuring an optimal user experience.
-
-## 🛠️ Future Enhancements
-
-- **Back-End Integration**: Connect to a real banking API to handle actual data.
-- **Additional User Features**: Include features such as fund transfers, budget management, and financial advice.
-
-## 📝 License
-
-This project is licensed under the **MIT License**. Feel free to use the code for your own projects or contribute to it.
+   - You can transfer Money between inbuilt users.
+   - You can sort your Transactions.
+   - You can convert your currency accordingly.
+   - You can close your account
